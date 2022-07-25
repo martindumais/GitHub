@@ -1,0 +1,4 @@
+Git status
+git add "fichier"
+git commit
+git
