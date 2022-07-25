@@ -1,4 +1,5 @@
 Git status
 git add "fichier"
-git commit
-git
+git commit -m "message"
+git log
+git checkout master
